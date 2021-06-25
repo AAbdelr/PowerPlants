@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OeeArBl7wPq9246wcpL9bLrTauay2ZVrbkh+xJKFXpRbpZpMW4D+WmIymCwn4EKGrRCxhvTU99Hmsppe6YmCg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\powerplant-coding-challenge-master\\PowerPlants\\PowerPlants\\PowerPlants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdelrahman.abdelrah\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
