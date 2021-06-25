@@ -1,14 +1,4 @@
-# powerplant-coding-challenge
-
-!!!
-
-SignalR is well implemented and as requested the inputs as well as the result are sent to all clients connected to the hub. 
-On the other hand the code allowing this is commented out because it throw a null exception because no client is connected to the server. (because the API is tested via unit tests without being executed)
-
-!!!
-
-
-## Welcome !
+# Welcome !
 
 ## How to test the API ?
 
@@ -36,3 +26,11 @@ Once the load is equal to the energy power supplied by the PowerPlants, the resu
 
 !!! So put at least one breakpoint on the "Result" variable to see the final result !!!
 
+## SignalR
+
+!!!
+
+SignalR is well implemented and as requested the inputs as well as the result are sent to all clients connected to the hub. 
+On the other hand the code allowing this is commented out because it throw a null exception because no client is connected to the server. (because the API is tested via unit tests without being executed)
+
+!!!
